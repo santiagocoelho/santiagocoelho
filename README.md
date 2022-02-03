@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santiagocoelho [(@santicoelho in Twitter)](https://twitter.com/santicoelho)
+- 👋 Hi, I’m @santiagocoelho ([@santicoelho](https://twitter.com/santicoelho) in Twitter)
 - 👀 I’m interested in diffusion MRI physics in general, biophysical modeling, experimental design, and image processing.
 
 <!---
